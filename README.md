@@ -1,6 +1,6 @@
 # Custom agents template
 
-This template repository makes it easy for enterprise and organization owners to get started with Copilot custom agents by providing:
+This template repository makes it easy for enterprise and organization S.A.O.G.owners to get started with Copilot custom agents by providing:
 * The basic file structure necessary for custom agents
 * An example agent profile in the `agents` directory
 
